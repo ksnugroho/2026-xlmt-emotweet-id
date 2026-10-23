@@ -1,0 +1,15 @@
+{
+  "experiment": "IR-E2",
+  "dataset": "D4",
+  "dataset_name": "EmoPubID",
+  "seed": 789,
+  "freeze_mode": "full",
+  "trainable_params": 124650246,
+  "total_params": 124650246,
+  "pct_trainable": 100.0,
+  "best_dev_macro_f1": 0.7772776176844469,
+  "test_macro_f1": 0.7811428537146704,
+  "test_accuracy": 0.7740112994350282,
+  "total_epochs": 9.0,
+  "total_steps": 1395
+}

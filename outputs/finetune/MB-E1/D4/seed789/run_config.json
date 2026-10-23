@@ -1,0 +1,17 @@
+{
+  "experiment": "MB-E1",
+  "model_path": "bert-base-multilingual-cased",
+  "dataset": "D4",
+  "seed": 789,
+  "freeze_mode": "full",
+  "data_dir": "/home/ubuntu/workspace/2026-xlmt-emotweet/data/fine-tuning",
+  "output_dir": "/home/ubuntu/workspace/2026-xlmt-emotweet/outputs/finetune/MB-E1/D4/seed789",
+  "lr": 2e-05,
+  "batch_size": 32,
+  "max_epochs": 20,
+  "max_seq_length": 128,
+  "warmup_ratio": 0.1,
+  "weight_decay": 0.01,
+  "early_stopping_patience": 5,
+  "save_model": false
+}

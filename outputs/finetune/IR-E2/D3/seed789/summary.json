@@ -1,0 +1,15 @@
+{
+  "experiment": "IR-E2",
+  "dataset": "D3",
+  "dataset_name": "EmoT",
+  "seed": 789,
+  "freeze_mode": "full",
+  "trainable_params": 124649477,
+  "total_params": 124649477,
+  "pct_trainable": 100.0,
+  "best_dev_macro_f1": 0.7551688831081346,
+  "test_macro_f1": 0.766480436367747,
+  "test_accuracy": 0.7579425113464447,
+  "total_epochs": 12.0,
+  "total_steps": 1164
+}

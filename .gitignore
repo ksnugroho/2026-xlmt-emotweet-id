@@ -1,0 +1,28 @@
+# DAPT model checkpoints (large, ~1GB each)
+outputs/dapt/
+
+# Fine-tuning checkpoints saved mid-training
+outputs/finetune/**/checkpoint-*/
+
+# DAPT corpus (120MB, not for version control)
+data/dapt/
+
+# WandB run logs
+wandb/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.log
+
+# Internal / work-in-progress files
+src/make_splits.py
+desain_experiment-xlmt-emotweet.md
+
+# OS
+.DS_Store

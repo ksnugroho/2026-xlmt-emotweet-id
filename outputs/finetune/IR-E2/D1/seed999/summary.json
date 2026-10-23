@@ -1,0 +1,15 @@
+{
+  "experiment": "IR-E2",
+  "dataset": "D1",
+  "dataset_name": "EmoTweetID",
+  "seed": 999,
+  "freeze_mode": "full",
+  "trainable_params": 124650246,
+  "total_params": 124650246,
+  "pct_trainable": 100.0,
+  "best_dev_macro_f1": 0.8541978466421004,
+  "test_macro_f1": 0.8411846252476106,
+  "test_accuracy": 0.8367952522255193,
+  "total_epochs": 20.0,
+  "total_steps": 1000
+}

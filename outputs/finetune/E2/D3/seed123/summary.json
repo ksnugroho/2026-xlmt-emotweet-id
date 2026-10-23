@@ -1,0 +1,15 @@
+{
+  "experiment": "E2",
+  "dataset": "D3",
+  "dataset_name": "EmoT",
+  "seed": 123,
+  "freeze_mode": "full",
+  "trainable_params": 278047493,
+  "total_params": 278047493,
+  "pct_trainable": 100.0,
+  "best_dev_macro_f1": 0.7735631612642362,
+  "test_macro_f1": 0.7953003000168485,
+  "test_accuracy": 0.7881996974281392,
+  "total_epochs": 15.0,
+  "total_steps": 1455
+}

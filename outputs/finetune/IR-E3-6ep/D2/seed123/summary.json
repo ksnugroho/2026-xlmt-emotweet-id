@@ -1,0 +1,15 @@
+{
+  "experiment": "IR-E3-6ep",
+  "dataset": "D2",
+  "dataset_name": "EmoCMT",
+  "seed": 123,
+  "freeze_mode": "full",
+  "trainable_params": 124649477,
+  "total_params": 124649477,
+  "pct_trainable": 100.0,
+  "best_dev_macro_f1": 0.41323763955342907,
+  "test_macro_f1": 0.3371197359040725,
+  "test_accuracy": 0.5,
+  "total_epochs": 15.0,
+  "total_steps": 195
+}

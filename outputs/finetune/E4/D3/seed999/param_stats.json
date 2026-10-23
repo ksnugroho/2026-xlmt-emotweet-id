@@ -1,0 +1,6 @@
+{
+  "freeze_mode": "freeze_encoder",
+  "trainable_params": 192993029,
+  "total_params": 278047493,
+  "pct_trainable": 69.4101
+}

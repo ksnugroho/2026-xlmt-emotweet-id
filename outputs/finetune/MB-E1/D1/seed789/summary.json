@@ -1,0 +1,15 @@
+{
+  "experiment": "MB-E1",
+  "dataset": "D1",
+  "dataset_name": "EmoTweetID",
+  "seed": 789,
+  "freeze_mode": "full",
+  "trainable_params": 177858054,
+  "total_params": 177858054,
+  "pct_trainable": 100.0,
+  "best_dev_macro_f1": 0.8337595230016946,
+  "test_macro_f1": 0.8201026402325531,
+  "test_accuracy": 0.8160237388724035,
+  "total_epochs": 11.0,
+  "total_steps": 550
+}

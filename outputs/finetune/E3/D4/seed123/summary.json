@@ -1,0 +1,15 @@
+{
+  "experiment": "E3",
+  "dataset": "D4",
+  "dataset_name": "EmoPubID",
+  "seed": 123,
+  "freeze_mode": "full",
+  "trainable_params": 278048262,
+  "total_params": 278048262,
+  "pct_trainable": 100.0,
+  "best_dev_macro_f1": 0.7890719396042271,
+  "test_macro_f1": 0.7876687142101563,
+  "test_accuracy": 0.779868297271872,
+  "total_epochs": 8.0,
+  "total_steps": 1240
+}

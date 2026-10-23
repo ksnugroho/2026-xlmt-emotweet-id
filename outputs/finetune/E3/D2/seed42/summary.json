@@ -1,0 +1,15 @@
+{
+  "experiment": "E3",
+  "dataset": "D2",
+  "dataset_name": "EmoCMT",
+  "seed": 42,
+  "freeze_mode": "full",
+  "trainable_params": 278047493,
+  "total_params": 278047493,
+  "pct_trainable": 100.0,
+  "best_dev_macro_f1": 0.5699654739485248,
+  "test_macro_f1": 0.5145163605051665,
+  "test_accuracy": 0.625,
+  "total_epochs": 18.0,
+  "total_steps": 234
+}

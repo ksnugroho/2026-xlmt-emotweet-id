@@ -1,0 +1,17 @@
+{
+  "experiment": "E4",
+  "model_path": "/home/ubuntu/workspace/2026-xlmt-emotweet/outputs/dapt/xlmt/A-emb/best_model",
+  "dataset": "D4",
+  "seed": 999,
+  "freeze_mode": "freeze_encoder",
+  "data_dir": "/home/ubuntu/workspace/2026-xlmt-emotweet/data/fine-tuning",
+  "output_dir": "/home/ubuntu/workspace/2026-xlmt-emotweet/outputs/finetune/E4/D4/seed999",
+  "lr": 2e-05,
+  "batch_size": 32,
+  "max_epochs": 20,
+  "max_seq_length": 128,
+  "warmup_ratio": 0.1,
+  "weight_decay": 0.01,
+  "early_stopping_patience": 5,
+  "save_model": false
+}
